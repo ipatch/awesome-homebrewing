@@ -1,1 +1,1 @@
-# see the [wiki](https://github.com/ipatch/homebrewing/wiki)
+# 🙈 see the [wiki](https://github.com/ipatch/homebrewing/wiki)
